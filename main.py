@@ -38,10 +38,12 @@ def callback():
 def reply(event):
 
     try:
+        reply_text = gpt.post(event.message.text)
+        app.logger.info(reply_text)
         line_bot_api.reply_message(
             event.reply_token,
             # TextSendMessage(text=event.message.text)
-            TextSendMessage(text=gpt.post(event.message.text))
+            TextSendMessage(text=reply_text)
         )
     except:
         line_bot_api.reply_message(
