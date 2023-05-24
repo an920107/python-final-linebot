@@ -4,7 +4,7 @@ from flask import Flask, request
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage
-from chatgpt import ChatGPT
+from modules.chatgpt import ChatGPT
 
 app = Flask(__name__)
 app.config["host"] = "0.0.0.0"
