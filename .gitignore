@@ -1,5 +1,7 @@
 config/chatgpt.conf
 config/linebot.conf
+config/imgur.conf
+sql/users.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
