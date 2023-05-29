@@ -7,6 +7,10 @@
 此專題主要是實作了 Linebot 連接 ChatGPT 以及高鐵訂票的功能。
 能夠根據使用者輸入的文字來進行簡單的對話，也能讓使用者藉由輸入一點資料就能夠完成高鐵訂票。
 
+### 報告連結
+
+[Pyhton 期末 - Google 簡報](https://docs.google.com/presentation/d/10nbbQNzyS27AvwLrcTv7dI3qYQ_Nwi7efTf0lNxorAw/edit?usp=sharing)
+
 ## 如何使用這個專案
 
 ### 環境建置
