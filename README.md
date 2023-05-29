@@ -70,4 +70,12 @@
    python ./main.py
    ```
 
-2. 
+2. （選用）執行 ngrok
+   
+   > 12345 為 main.py 中 `app.run("0.0.0.0", 12345, debug=True)` 中的連接埠號
+   
+   ```shell
+   ngrok http 12345
+   ```
+
+3. 至 [LINE Developers](https://developers.line.biz/console) 的 Messaging API 設定 Web Hook 的 IP 位置域名，後方要記得加上 `/callback`
