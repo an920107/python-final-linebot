@@ -136,15 +136,15 @@
 
 ### ChatGPT 對話回應
 
-![](https://i.imgur.com/TkWJ5Oi.png)
+<img src="https://i.imgur.com/TkWJ5Oi.png" width="300">
 
-![](https://i.imgur.com/3LjVtHS.png)
+<img src="https://i.imgur.com/3LjVtHS.png" width="300">
 
 在不使用預設功能的狀況下，輸入任意文字，Linebot 會使用 ChatGPT 回應你輸入的文字
 
 ### 設定個人檔案
 
-![](https://hackmd.io/_uploads/SylBOxrGIh.png)
+<img src="https://hackmd.io/_uploads/SylBOxrGIh.png" width="300">
 
 點選下方的選單右方「設定個人資料」可以設定自己的資料
 
@@ -156,7 +156,7 @@
 
 ### 訂購高鐵票
 
-![](https://hackmd.io/_uploads/BkDxbHzIh.png)
+<img src="https://hackmd.io/_uploads/BkDxbHzIh.png" width="300">
 
 點選下方的選單左方「訂購高鐵」可以訂購高鐵票
 
