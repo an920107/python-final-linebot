@@ -10,6 +10,7 @@
 ### 報告連結
 
 [Pyhton 期末 - Google 簡報](https://docs.google.com/presentation/d/10nbbQNzyS27AvwLrcTv7dI3qYQ_Nwi7efTf0lNxorAw/edit?usp=sharing)
+[Google Meet](meet.google.com/epd-zpgh-scg)
 
 ## 如何使用這個專案
 
